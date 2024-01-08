@@ -1,0 +1,9 @@
+.vs/
+.vscode/
+
+SFML
+
+x64/*
+!x64/Debug/
+x64/Debug/*
+!x64/Debug/*.dll
